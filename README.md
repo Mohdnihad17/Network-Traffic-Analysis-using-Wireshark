@@ -1,4 +1,4 @@
-#  Task 5: Capture and Analyze Network Traffic Using Wireshark
+# Network Traffic Analysis using Wireshark
 
 ##  Tools Used
 - **Wireshark**
